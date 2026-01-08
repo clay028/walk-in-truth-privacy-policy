@@ -1,69 +1,44 @@
-# Privacy Policy
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy — Walk in Truth Devotion</title>
+</head>
+<body>
+<h1>Privacy Policy</h1>
+<p>Walk in Truth – Daily Christian Devotion respects your privacy.</p>
 
-**Walk in Truth – Daily Christian Devotion** respects your privacy.
+<h2>Information Collection and Use</h2>
+<p>The app does not collect personal information such as names, email addresses, or login credentials.</p>
+<p>However, the app uses third-party services that may collect limited information for analytics and advertising purposes.</p>
 
-This Privacy Policy explains how information is handled when you use the app.
+<h2>Third-Party Services</h2>
+<p>The app uses the following third-party services:</p>
+<p><strong>Google AdMob</strong><br>
+Used to display banner advertisements.</p>
+<p>AdMob may collect:</p>
+<ul>
+    <li>Device information</li>
+    <li>Advertising ID</li>
+    <li>App usage data</li>
+</ul>
+<p>This data is used to provide and improve ad services.</p>
+<p>Google’s privacy policy: <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a></p>
 
----
+<h2>Internet Access</h2>
+<p>The app accesses the internet to fetch devotion content from a Blogger API and display advertisements.</p>
 
-## Information Collection and Use
+<h2>Data Storage</h2>
+<p>The app does not store personal data on its own servers. Content is retrieved dynamically from external services.</p>
 
-The app does **not** collect personal information such as names, email addresses, or login credentials.
+<h2>Children’s Privacy</h2>
+<p>This app does not knowingly collect personal information from children under 13. If you believe that a child has provided personal data, please contact us so it can be removed.</p>
 
-However, the app uses third-party services that may collect limited information for analytics and advertising purposes.
+<h2>Changes to This Policy</h2>
+<p>This Privacy Policy may be updated from time to time. Any changes will be reflected on this page.</p>
 
----
-
-## Third-Party Services
-
-The app uses the following third-party services:
-
-### Google AdMob
-Used to display banner advertisements.
-
-AdMob may collect:
-- Device information
-- Advertising ID
-- App usage data
-
-This data is used to provide and improve ad services.
-
-Google’s privacy policy:
-https://policies.google.com/privacy
-
----
-
-## Internet Access
-
-The app accesses the internet to:
-- Fetch devotion content from a Blogger API
-- Display advertisements
-
----
-
-## Data Storage
-
-The app does not store personal data on its own servers.
-Content is retrieved dynamically from external services.
-
----
-
-## Children’s Privacy
-
-This app does not knowingly collect personal information from children under 13.
-If you believe that a child has provided personal data, please contact us so it can be removed.
-
----
-
-## Changes to This Policy
-
-This Privacy Policy may be updated from time to time.
-Any changes will be reflected on this page.
-
----
-
-## Contact
-
-If you have questions about this Privacy Policy, you may contact:
-
-**Email:** youngpastor236@gmail.com
+<h2>Contact</h2>
+<p>If you have questions about this Privacy Policy, you may contact: <br>
+Email: walkintruthdevotion@gmail.com</p>
+</body>
+</html>
